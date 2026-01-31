@@ -14,15 +14,16 @@
 
 ## 📊 Mi Actividad en GitHub
 
-<p align="center">
-  <a href="https://github.com/ToniAlpe">
-    <img src="https://github-readme-stats.vercel.app/api?username=ToniAlpe&show_icons=true&theme=tokyonight&count_private=true" height="195px" alt="Estadísticas de Toni" />
-  </a>
-  
-  <a href="https://github.com/ToniAlpe">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToniAlpe&layout=compact&theme=tokyonight&hide_langs_below=1" height="195px" alt="Lenguajes de Toni" />
-  </a>
-</p>
+<div align="center">
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/TU_USUARIO/count.svg"/>
+  <br/>
+</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
+</div>
 
 ---
 
@@ -43,13 +44,4 @@
   <a href="mailto:a.almagro.estudiante@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
-
-### 📊 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ToniAlpe&show_icons=true&theme=tokyonight" alt="Estadísticas de Toni" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToniAlpe&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
