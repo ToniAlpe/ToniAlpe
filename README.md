@@ -37,7 +37,7 @@
 ## 📬 Conecta conmigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/antonio-almagro-pérez-84a609341" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:a.almagro.estudiante@gmail.com">
