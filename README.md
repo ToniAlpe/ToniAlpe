@@ -46,9 +46,10 @@
 </p>
 
 
-## 📊 Mi Actividad en GitHub
+### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ToniAlpe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de Toni" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToniAlpe&layout=compact&theme=tokyonight&langs_count=6" alt="Lenguajes de Toni" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ToniAlpe&show_icons=true&theme=tokyonight" alt="Estadísticas de Toni" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToniAlpe&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
