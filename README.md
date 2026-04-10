@@ -27,4 +27,4 @@
 ---
 <!--[![](https://visitcount.itsvg.in/api?id=ToniAlpe&icon=0&color=0)](https://visitcount.itsvg.in)-->
 
-![Visitas](https://komarev.com/ghpvc/?username=ToniAlpe&style=flat&color=blue)
+<!--![Visitas](https://komarev.com/ghpvc/?username=ToniAlpe&style=flat&color=blue)-->
