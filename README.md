@@ -25,4 +25,6 @@
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ToniAlpe&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ToniAlpe&icon=0&color=0)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=ToniAlpe&icon=0&color=0)](https://visitcount.itsvg.in)-->
+
+![Visitas](https://komarev.com/ghpvc/?username=ToniAlpe&style=flat&color=blue)
