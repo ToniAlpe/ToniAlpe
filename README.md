@@ -1,5 +1,5 @@
 # 💫 About Me:
-"¡Hola! Soy Antonio, estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM). Me apasiona resolver problemas a través del código y actualmente estoy centrado en dominar Java y la gestión de bases de datos. Este perfil es mi cuaderno donde subo mis proyectos, prácticas y todo lo que voy aprendiendo en mi camino hacia convertirme en desarrollador Full Stack."
+¡Hola! Soy Antonio, estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM). Me apasiona resolver problemas a través del código y actualmente estoy centrado en dominar Java y la gestión de bases de datos. Este perfil es mi cuaderno donde subo mis proyectos, prácticas y todo lo que voy aprendiendo en mi camino hacia convertirme en desarrollador Full Stack.
 
 
 ## 🌐 Socials:
