@@ -19,7 +19,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=ToniAlpe&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000)
 
-![](https://nirzak-streak-stats.vercel.app/?user=ToniAlpe&theme=transparent&hide_border=false)
+<!--![](https://nirzak-streak-stats.vercel.app/?user=ToniAlpe&theme=transparent&hide_border=false)-->
+![](https://github-readme-streak-stats.herokuapp.com/?user=ToniAlpe&theme=transparent&hide_border=false)
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ToniAlpe&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000)
 
