@@ -19,8 +19,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-weld-theta-19.vercel.app/api?username=ToniAlpe&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000)
 
-<!--![](https://nirzak-streak-stats.vercel.app/?user=ToniAlpe&theme=transparent&hide_border=false)-->
-![](https://github-readme-streak-stats.herokuapp.com/?user=ToniAlpe&theme=transparent&hide_border=false)
+![](https://github-readme-streak-stats-psi-brown.vercel.app/?user=ToniAlpe&theme=transparent&hide_border=false)
 
 ![](https://github-readme-stats-weld-theta-19.vercel.app/api/top-langs/?username=ToniAlpe&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000)
 
